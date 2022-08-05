@@ -5,7 +5,7 @@ Java clone of the classic video game Minesweeper that is created using Java Swin
 Features:
 - **3 different difficulties**
 - **Login System**
-- **Best time completed for each difficulty**
+- **Best time for each difficulty**
 
 
 # Sound Effect
