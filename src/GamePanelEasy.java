@@ -163,44 +163,6 @@ public class GamePanelEasy extends GamePanel implements Runnable {
 					}
 				}
 				nodes[row][col].setDiscoveredImage(numberImages[bombsAdj]);
-//				//array 
-//				switch (bombsAdj) {
-//				case 0:
-//					nodes[row][col].setDiscoveredImage(blank);
-//					break;
-//
-//				case 1:
-//					nodes[row][col].setDiscoveredImage(oneNear);
-//					break;
-//
-//				case 2:
-//					nodes[row][col].setDiscoveredImage(twoNear);
-//					break;
-//
-//				case 3:
-//					nodes[row][col].setDiscoveredImage(threeNear);
-//					break;
-//
-//				case 4:
-//					nodes[row][col].setDiscoveredImage(fourNear);
-//					break;
-//
-//				case 5:
-//					nodes[row][col].setDiscoveredImage(fiveNear);
-//					break;
-//
-//				case 6:
-//					nodes[row][col].setDiscoveredImage(sixNear);
-//					break;
-//
-//				case 7:
-//					nodes[row][col].setDiscoveredImage(sevenNear);
-//					break;
-//
-//				case 8:
-//					nodes[row][col].setDiscoveredImage(eightNear);
-//					break;
-//				}
 			}
 		}
 	}
