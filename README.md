@@ -1,6 +1,6 @@
 # Minesweeper
 
-Java clone of the classic video game Minesweeper that is created using Java Swing! 
+💣 Java clone of the classic video game Minesweeper that is created using Java Swing! 
 
 ## Features
 - 3 different difficulties
